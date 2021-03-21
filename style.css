@@ -35,6 +35,9 @@ a {
   text-decoration: none;
   color: #533738;
 }
+::placeholder {
+color: #F6EDE9;
+}
 
 .header-page{
   position: absolute;
